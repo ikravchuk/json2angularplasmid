@@ -17,6 +17,6 @@
   "dependencies": {
     "jquery": "^3.1.1",
     "handlebars": "^4.0.5",
-    "angluarplasmid": "angularplasmid#^1.0.5"
+    "angularplasmid": "git://github.com/ikravchuk/angularplasmid.git#6ce29bcbbbdfc44b3f06bfe6baefb1512ef9bf20"
   }
 }
