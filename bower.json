@@ -1,0 +1,22 @@
+{
+  "name": "json2angularplasmid",
+  "description": "component to draw plasmids with angularplasmid according to information about  features from json file",
+  "main": "index.js",
+  "authors": [
+    "Ihor Kravchuk (ihor.kravchuk.mail@gmail.com)"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "handlebars": "^4.0.5",
+    "angluarplasmid": "angularplasmid#^1.0.5"
+  }
+}
