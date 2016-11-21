@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ihor Kravchuk (ihor.kravchuk.mail@gmail.com)",
+  "author": "Ihor Kravchuk <ihor.kravchuk.mail@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.17.6",
