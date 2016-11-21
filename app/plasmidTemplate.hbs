@@ -1,0 +1,14 @@
+<plasmid plasmidheight="500" plasmidwidth="500" sequencelength="{{backbone.end}}">
+	<plasmidtrack>
+        	<tracklabel text="{{name}}"></tracklabel>
+                <trackscale ticksize="65" interval="500" vadjust="40" direction="out" showlabels="1" labelstyle="fill:#0f0"></trackscale>
+               {{#each features}}
+                 <trackmarker start="{{start}}" end="{{end}}" style="fill:#0f0">
+                	 <markerlabel></markerlabel>
+                 </trackmarker>
+               {{/each}}
+         </plasmidtrack>
+         <svgelement></svgelement>
+</plasmid>
+<plasmidapi></plasmidapi>
+
